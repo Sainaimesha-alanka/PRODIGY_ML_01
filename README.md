@@ -4,7 +4,6 @@ Task - 01
 
 This repository contains code on Linear Regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms with the dataset from Kaggle
 
-Addressing real-world challenges, forecasting housing costs is a pivotal issue. Leveraging machine learning, this project endeavors to tackle the problem by delving into the realm of regression techniques. The objective is to analyze the dataset's features and ascertain the most precise model through Linear Regression Model.
 Algorithm: Predict House Prices using Linear Regression
 
 #### Step 1: Import Necessary Libraries
